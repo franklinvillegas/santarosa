@@ -1,7 +1,6 @@
 # asistencia-inei
 
-git clone https://github.com/franklinvillegas/asistencia-inei.git
-
+git clone https://github.com/franklinvillegas/santarosa.git
 
 cd asistencia-inei
 
@@ -13,7 +12,7 @@ nano .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=bd_asistencia-inei
+DB_DATABASE=bd_sge
 DB_USERNAME=root
 DB_PASSWORD=
 
